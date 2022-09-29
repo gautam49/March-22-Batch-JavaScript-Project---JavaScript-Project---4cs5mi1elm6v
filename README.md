@@ -3,9 +3,9 @@
 
 Make Sudoku Game With HTML CSS JavaScript
 
-<h1>Video tutorial</h1>
+<h1>Video tutorial Help</h1>
 
-https://youtu.be/xpsm3tOLTVE
+https://www.youtube.com/watch?v=xpsm3tOLTVE
 
 <h1>Resource</h1>
 
